@@ -1,6 +1,8 @@
 # RuneScape Bot Scripts
 
-This repository contains scripts for automating tasks in RuneScape. These scripts were written for self-learning purposes and are not intended to encourage breaking the RuneScape Terms of Service.
+I spent some of my free time using Old School Runescape, a game which I have enjoyed in my childhood as a base for practicing my scripting skills. 
+This repository contains several scripts I have written to have automate certain repetitive tasks.
+These scripts were written for self-learning purposes and are not intended to encourage breaking the RuneScape Terms of Service.
 
 ## Scripts
 
