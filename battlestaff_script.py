@@ -58,17 +58,17 @@ def craft_battlestaves(orb_x, orb_y, staff_x, staff_y, make_all_x, make_all_y, b
 
 if __name__ == "__main__":
     # Replace these coordinates with the ones you recorded
-    orb_x, orb_y = 1146, 1588  # Coordinates of air orbs in inventory x=1146, y=1588
-    staff_x, staff_y = 1148, 1562  # Coordinates of battlestaves in inventory -in laptop window x=1148, y=1562
+    orb_x, orb_y = 1170, 1589  # Coordinates of air orbs in inventory x=1146, y=1588
+    staff_x, staff_y = 1138, 1591  # Coordinates of battlestaves in inventory -in laptop window x=1148, y=1562
     make_all_x, make_all_y = 265, 1673  # Coordinates of 'Make-X' confirmation option  x=265, y=1673
-    bank_x, bank_y = 667, 1415  # Coordinates of the Banker x=667, y=1415
-    bank_click_x, bank_click_y = 708, 1453  # Coordinates to click 'Bank' after right-clicking the Banker NPC x=708, y=1453
+    bank_x, bank_y = 680, 1422  # Coordinates of the Banker x=667, y=1415
+    bank_click_x, bank_click_y = 686, 1463  # Coordinates to click 'Bank' after right-clicking the Banker NPC x=708, y=1453
     deposit_inventory_x, deposit_inventory_y = 683, 1555  # Coordinates to click 'Deposit Inventory' x=683, y=1555
-    bank_close_x, bank_close_y = 724, 1122  # Coordinates to close the bank window  x=724, y=1122
+    bank_close_x, bank_close_y = 738, 1120  # Coordinates to close the bank window  x=724, y=1122
     right_click_staves_x, right_click_staves_y = 616, 1413  # Coordinates to right-click battlestaves in bank  x=616, y=1413
-    withdraw_staves_x, withdraw_staves_y = 616, 1488  # Coordinates to click 'Withdraw-14' for battlestaves x=616, y=1488
-    right_click_orbs_x, right_click_orbs_y = 660, 1415  # Coordinates to right-click air orbs in bank        x=660, y=1415
-    withdraw_orbs_x, withdraw_orbs_y = 659, 1488  # Coordinates to click 'Withdraw-14' for air orbs  x=659, y=1488
+    withdraw_staves_x, withdraw_staves_y = 616, 1502  # Coordinates to click 'Withdraw-14' for battlestaves x=616, y=1488
+    right_click_orbs_x, right_click_orbs_y = 678, 1411  # Coordinates to right-click air orbs in bank        x=660, y=1415
+    withdraw_orbs_x, withdraw_orbs_y = 669, 1502  # Coordinates to click 'Withdraw-14' for air orbs  x=659, y=1488
 
     print("Starting Battlestaff Crafting bot in 5 seconds. Switch to RuneScape window.")
     time.sleep(5)
