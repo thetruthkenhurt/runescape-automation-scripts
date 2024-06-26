@@ -1,4 +1,5 @@
-# Make sure item is aligned on high alch tile, start from spellbook page 
+# Make sure item is aligned on high alch tile, start from spellbook page
+# Move mouse cursor to high alch and item tile
 # Adjust timeout to your liking
 import pyautogui
 import time
@@ -25,7 +26,7 @@ def high_alch(duration):
 if __name__ == "__main__":
     # Coordinates
     # Example coordinates for both the High Alchemy spell and the item(optional)
-    duration = 35 * 60  # Duration in seconds (e.g., 120 minutes)
+    duration = 50 * 60  # Duration in seconds (e.g., 120 minutes)
 
     print("Starting High Alching script in 5 seconds. Switch to RuneScape window.")
     time.sleep(5)
